@@ -9,6 +9,7 @@ currency-exchange-service project
   Start project 8000 and 8001 port
   
  eureka-naming-server
-  Naming server project
+  Naming server project, call with
+  http://localhost:8761/
   
  These projects contain ribbon, eureka naming service, feign client, h2 database, Zuul API Gateway, Cloud Sleuth, Zipkin
